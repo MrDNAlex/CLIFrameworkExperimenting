@@ -6,7 +6,6 @@ namespace CLIFrameworkExperiments
     {
         public Verbose(string[] arguments) : base(arguments)
         {
-            Console.WriteLine("Verbose Flag Activated");
         }
 
         public override string Name => "verbose";

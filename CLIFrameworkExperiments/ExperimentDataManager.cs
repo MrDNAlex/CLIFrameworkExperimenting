@@ -7,6 +7,7 @@ namespace CLIFrameworkExperiments
     {
         public ExperimentDataManager(Setting settings, Dictionary<Type, Flag> globalFlags) : base(settings, globalFlags)
         {
+
         }
     }
 }
